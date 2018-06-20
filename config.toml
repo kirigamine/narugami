@@ -4,4 +4,7 @@ title = "#鳴神区住民"
 theme = "hugrid"
 [params]
     author = "きり"
+    title = "#鳴神区住民"
     subtitle = "きりの鳴神区住民まとめ"
+    description = "にゃる芋さんとの共同創作のキャラクター一覧です。"
+    bodybgcolor = "#f9f9f9"
