@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313"
+languageCode = "jp"
+title = "#鳴神区住民"
+theme = "hugrid"
+[params]
+    author = "きり"
+    subtitle = "きりの鳴神区住民まとめ"
